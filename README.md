@@ -1,3 +1,8 @@
+> ⚠️ ARCHIVED / LEGACY REPOSITORY  
+> Kivai has moved to **Tech4Life & Beyond**: https://github.com/tech4life-beyond/kivai  
+> This repository is kept for historical reference only.
+
+
 # Kivai Manifesto
 
 The open-source vision for Kivai — a universal language for communicating with intelligent devices.
